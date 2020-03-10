@@ -1,0 +1,4 @@
+
+Monolithic 
+
+Micro services
